@@ -172,6 +172,7 @@
 		{
 			"scope": "variable.parameter",
 			"settings": {
+				"foreground": "#FFFFFF",
 				"fontStyle": ""
 			}
 		},
@@ -183,9 +184,9 @@
 			}
 		},
 		{
-			"scope": "support.function.core.ruby",
+			"scope": "support.function",
 			"settings": {
-				"foreground": "#C83730",
+				"foreground": "#FFFFFF",
 				"fontStyle": ""
 			}
 		}
