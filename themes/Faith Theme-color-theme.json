@@ -179,7 +179,6 @@
 		{
 			"scope": "variable.parameter",
 			"settings": {
-				"foreground": "#FFFFFF",
 				"fontStyle": ""
 			}
 		},
