@@ -1,6 +1,8 @@
 ![Faith Theme (Rails 7)](/assets/1.Rails-7.png)
 
-![Faith Theme (Elixir OTP)](/assets/2.Elixir-OTP.png)
+![Faith Theme (Elixir OTP)](/assets/2.Phoenix-LiveView.png)
+
+![Faith Theme (Elixir OTP)](/assets/3.Elixir-OTP.png)
 
 ## Description
 A theme for the faithful. Just like Saul became Paul, the Faith Theme transforms the All Hallow's Eve theme with tweaks and a new identity.
