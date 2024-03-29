@@ -183,9 +183,9 @@
 			}
 		},
 		{
-			"scope": "support.function",
+			"scope": "support.function.core.ruby",
 			"settings": {
-				"foreground": "#FFFFFF",
+				"foreground": "#C83730",
 				"fontStyle": ""
 			}
 		}
