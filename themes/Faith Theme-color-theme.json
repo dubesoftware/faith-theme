@@ -121,13 +121,6 @@
 			}
 		},
 		{
-			"scope": "support.function",
-			"settings": {
-				"foreground": "#C83730",
-				"fontStyle": ""
-			}
-		},
-		{
 			"scope": "token.info-token",
 			"settings": {
 				"foreground": "#6796E6"
@@ -186,6 +179,13 @@
 			"scope": "variable.other.block.ruby",
 			"settings": {
 				"foreground": "#C83730",
+				"fontStyle": ""
+			}
+		},
+		{
+			"scope": "support.function",
+			"settings": {
+				"foreground": "#FFFFFF",
 				"fontStyle": ""
 			}
 		},
