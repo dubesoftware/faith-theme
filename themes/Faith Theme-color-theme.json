@@ -61,12 +61,6 @@
 			}
 		},
 		{
-			"scope": "variable.parameter",
-			"settings": {
-				"fontStyle": "italic"
-			}
-		},
-		{
 			"scope": "source comment.block",
 			"settings": {
 				"foreground": "#FFFFFF"
