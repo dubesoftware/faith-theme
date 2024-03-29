@@ -177,6 +177,13 @@
 			}
 		},
 		{
+			"scope": "variable.parameter.function.ruby",
+			"settings": {
+				"foreground": "#C83730",
+				"fontStyle": ""
+			}
+		},
+		{
 			"scope": "variable.other.block.ruby",
 			"settings": {
 				"foreground": "#C83730",
