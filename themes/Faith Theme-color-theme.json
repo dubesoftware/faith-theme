@@ -152,13 +152,6 @@
 			}
 		},
 		{
-			"scope": "variable.other.block.ruby",
-			"settings": {
-				"foreground": "#C83730",
-				"fontStyle": ""
-			}
-		},
-		{
 			"scope": "punctuation.separator.inheritance.ruby",
 			"settings": {
 				"foreground": "#CC7833",
@@ -172,13 +165,6 @@
 			}
 		},
 		{
-			"scope": "variable.parameter",
-			"settings": {
-				"foreground": "#FFFFFF",
-				"fontStyle": ""
-			}
-		},
-		{
 			"scope": "support.function",
 			"settings": {
 				"foreground": "#FFFFFF"
@@ -189,6 +175,20 @@
 			"settings": {
 				"fontStyle": "italic underline"
 			}
-		}
+		},
+		{
+			"scope": "variable.parameter",
+			"settings": {
+				"foreground": "#FFFFFF",
+				"fontStyle": ""
+			}
+		},
+		{
+			"scope": "variable.other.block.ruby",
+			"settings": {
+				"foreground": "#C83730",
+				"fontStyle": ""
+			}
+		},
 	]
 }
